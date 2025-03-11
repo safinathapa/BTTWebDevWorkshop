@@ -1,5 +1,5 @@
 # Title!
 
-intro to git
+- intro to git
 
-hello, this is a change to the readme
+## hello, this is a change to the readme
